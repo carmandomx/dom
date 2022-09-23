@@ -1,0 +1,9 @@
+.yellow {
+    background-color: yellow;
+    color: black;
+}
+
+button:hover {
+    background-color: blueviolet;
+    color: chocolate;
+}
